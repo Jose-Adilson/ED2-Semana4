@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1645468689 source:c:\users\dell\documents\ed2\ed2-semana4\mergesort.c
+	<stdio.h>
+	<stdlib.h>
+
